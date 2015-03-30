@@ -1,5 +1,4 @@
-GITIFY LIFE
-===========
+PhD Goals, Tasks and TODO
+========================
 
-PSA: This repository is strictly personal, any trespassing is strictly prohibited.\n
-    Trespassers will be prosecuted.
+1. This branch deals with the organization of the end of the PhD thesis.

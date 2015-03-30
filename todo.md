@@ -4,11 +4,12 @@ T0D0
 Priority 1:
 -----------
 
-1. Finish and submit article 1 to Nathalie ASAP.
-2. Start working on article 2.
+1. Verify weather operators are saved in the correct order.
+2. Get and verify results of S_i*S_j for some known cases (n=60).
 
 Priority 2:
 -----------
 
-1. Start working seriously on MCSCF_CURRENT
-2. Finish dmrg finite and start working for the half filling Hamiltonian.
+1. Do the Hubbard Hamiltonian
+2. Make holes in the Hubbard hamiltonian
+3. Do the DE Hamiltonian

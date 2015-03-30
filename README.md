@@ -1,4 +1,4 @@
-PhD Goals, Tasks and TODO
-========================
+DMRG Code
+=========
 
-1. This branch deals with the organization of the end of the PhD thesis.
+1. This branch deals with the goals and objectives for getting a working DMRG code.

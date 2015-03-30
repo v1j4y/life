@@ -1,4 +1,5 @@
 G0AL5
 =====
 
-1. Submit thesis before end of June.
+1. DMRG finite for model Hamiltonians
+2. DMRG for real Hamiltonians

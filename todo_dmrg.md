@@ -3,6 +3,8 @@
 ## Priority 1: ##
 
 1. Verify if correct states are taken while truncating the density matrix.
+    + pring the dmat eigenvalues and verify the degeneracy
+    + Calculate the S^2 values and compare with the dmat degeneracies.
 2. Are you sure of having the correct S+, S- and Sz operators ?
 
 ## Priority 2: ##

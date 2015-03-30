@@ -1,14 +1,11 @@
 ADMINISTRATIVE TASKS
 ===================
 
+(DATE: 2015-03-30)
+
 Priority 1:
 -----------
 
-1. Find out about the TOEC test.
-    
-    TOEC registration
-
-Priority 2:
------------
-
-1. Get registered for the front page of the thesis.
+1. Send mail to Secy to book flight tickets and stuff.
+2. Talk to Helene to set up mock presentation date for group SEM.
+3. Buy clothes for the Seminar.

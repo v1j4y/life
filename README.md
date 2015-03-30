@@ -1,4 +1,7 @@
-PhD Goals, Tasks and TODO
-========================
+PostDoc Related Goals
+======================
 
-1. This branch deals with the organization of the end of the PhD thesis.
+DATE: 2015-03-30
+----------------
+
+1. Organize visit and prepare Seminar.

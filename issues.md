@@ -1,4 +1,4 @@
 G0AL5
 =====
 
-1. Submit thesis before end of June.
+1. Organize and give a good pre-PostDoc seminar in MPI Mülheim.

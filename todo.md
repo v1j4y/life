@@ -1,14 +1,10 @@
 T0D0
 ====
 
+(DATE: 2015-03-30)
+
 Priority 1:
------------
+----------
 
-1. Finish and submit article 1 to Nathalie ASAP.
-2. Start working on article 2.
+1. Prepare presentation and send to Nathalie and Nico before 2015-04-10.
 
-Priority 2:
------------
-
-1. Start working seriously on MCSCF_CURRENT
-2. Finish dmrg finite and start working for the half filling Hamiltonian.

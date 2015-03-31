@@ -6,6 +6,11 @@ ADMINISTRATIVE TASKS
 Priority 1:
 -----------
 
-1. Send mail to Secy to book flight tickets and stuff.
+1. Reply to secy to confirm he infor.
 2. Talk to Helene to set up mock presentation date for group SEM.
-3. Buy clothes for the Seminar.
+3. Find out German Visa procedures.
+
+Priority 2:
+-----------
+
+1. Buy clothes for the Seminar.

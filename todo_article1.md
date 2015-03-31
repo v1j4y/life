@@ -1,14 +1,26 @@
 ARTICLE 1 TODO
 ==============
 
+
+Priority 1:
+-----------
+
+
 1. Correct
 
-    Theory and Modeling
+    a. Theory and Modeling
+    b. Results
+        + Shorten the Discussion of Results.
+        + Replace the introduction in the results section.
+    c. Conclusion
+        + Rewrite
+    d. Acknowledgement
+        + Rewrite
 
 2. Include the comparison of two holes with that of one hole.
 
-3. Shorten the Discussion of Results.
+Priority 2:
+-----------
 
-4. Write Conclusion.
-
-5. Write Acknowledgement.
+1. Include figures where they belong
+2. Add the missing bibliography

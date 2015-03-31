@@ -5,6 +5,7 @@
 1. Verify if correct states are taken while truncating the density matrix.
     + pring the dmat eigenvalues and verify the degeneracy
     + Calculate the S^2 values and compare with the dmat degeneracies.
+    + Project out the redundant spin states and verify if we get the same energies.
 2. Why does S^2 give the correct values whereas Sz does not !?
 3. Are you sure of having the correct S+, S- and Sz operators ?
 

@@ -7,6 +7,7 @@ Priority 1:
 1. Find out about the TOEC test.
     
     TOEC registration
+    room AR023
 
 Priority 2:
 -----------
